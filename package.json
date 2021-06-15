@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-dtypes2signatures",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Transform a list of array argument data types into a list of signatures.",
   "license": "Apache-2.0",
   "author": {
