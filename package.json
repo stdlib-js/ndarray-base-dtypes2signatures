@@ -39,7 +39,7 @@
   "dependencies": {
     "@stdlib/assert-is-array-like-object": "^0.0.x",
     "@stdlib/assert-is-nonnegative-integer": "^0.0.x",
-    "@stdlib/assert-is-string": "^0.0.x",
+    "@stdlib/ndarray-base-dtype-resolve-str": "^0.0.x",
     "@stdlib/types": "^0.0.x"
   },
   "devDependencies": {
