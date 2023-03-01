@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/ndarray/base/dtypes2signatures"
-click B href "https://github.com/stdlib-js/ndarray-base-dtypes2signatures/tree/main"
-click C href "https://github.com/stdlib-js/ndarray-base-dtypes2signatures/tree/production"
-click D href "https://github.com/stdlib-js/ndarray-base-dtypes2signatures/tree/esm"
-click E href "https://github.com/stdlib-js/ndarray-base-dtypes2signatures/tree/deno"
-click F href "https://github.com/stdlib-js/ndarray-base-dtypes2signatures/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/ndarray/base/dtypes2signatures"
+%% click B href "https://github.com/stdlib-js/ndarray-base-dtypes2signatures/tree/main"
+%% click C href "https://github.com/stdlib-js/ndarray-base-dtypes2signatures/tree/production"
+%% click D href "https://github.com/stdlib-js/ndarray-base-dtypes2signatures/tree/esm"
+%% click E href "https://github.com/stdlib-js/ndarray-base-dtypes2signatures/tree/deno"
+%% click F href "https://github.com/stdlib-js/ndarray-base-dtypes2signatures/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/ndarray/base/dtypes2signatures
