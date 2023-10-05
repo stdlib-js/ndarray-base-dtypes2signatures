@@ -26,7 +26,7 @@ var dtypes2signatures = require( './../../dist' );
 
 // FIXTURES //
 
-var dtypes = require( './../..xtures/types.json' );
+var dtypes = require( './../fixtures/types.json' );
 
 
 // TESTS //
