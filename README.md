@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import dtypes2signatures from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtypes2signatures@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-base-dtypes2signatures/tags). For example,
+
+```javascript
 import dtypes2signatures from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtypes2signatures@v0.2.1-deno/mod.js';
 ```
 
@@ -95,7 +100,7 @@ out = dtypes2signatures( dtypes, 0, 2 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import dtypes2signatures from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtypes2signatures@v0.2.1-deno/mod.js';
+import dtypes2signatures from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtypes2signatures@deno/mod.js';
 
 var dtypes = [
     'float64', 'float64',
