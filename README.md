@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dtypes2signatures from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtypes2signatures@deno/mod.js';
+import dtypes2signatures from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtypes2signatures@v0.2.3-deno/mod.js';
 ```
 
 #### dtypes2signatures( dtypes, nin, nout )
@@ -95,7 +95,7 @@ out = dtypes2signatures( dtypes, 0, 2 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import dtypes2signatures from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtypes2signatures@deno/mod.js';
+import dtypes2signatures from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtypes2signatures@v0.2.3-deno/mod.js';
 
 var dtypes = [
     'float64', 'float64',
