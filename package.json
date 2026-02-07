@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-dtypes2signatures",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Transform a list of array argument data types into a list of signatures.",
   "license": "Apache-2.0",
   "author": {
@@ -37,17 +37,17 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-array-like-object": "^0.2.2",
-    "@stdlib/assert-is-nonnegative-integer": "^0.2.2",
-    "@stdlib/ndarray-base-dtype-resolve-str": "^0.2.2",
-    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/assert-is-array-like-object": "^0.2.3",
+    "@stdlib/assert-is-nonnegative-integer": "^0.2.3",
+    "@stdlib/ndarray-base-dtype-resolve-str": "^0.3.0",
+    "@stdlib/string-format": "^0.2.3",
     "@stdlib/types": "^0.4.3",
-    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/assert-is-string-array": "^0.2.2",
-    "@stdlib/dstructs-struct": "github:stdlib-js/dstructs-struct#main",
-    "@stdlib/ndarray-dtype-ctor": "github:stdlib-js/ndarray-dtype-ctor#main",
+    "@stdlib/assert-is-string-array": "^0.2.3",
+    "@stdlib/dstructs-struct": "^0.1.0",
+    "@stdlib/ndarray-dtype-ctor": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
